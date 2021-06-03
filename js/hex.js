@@ -13,6 +13,5 @@ const colorContainer = document.querySelector(".color");
 button.addEventListener("click", () => {
   let hexColor = hexColorGenerator();
   section.style.backgroundColor = hexColor;
-  button.style.backgroundColor = hexColor;
   colorContainer.innerHTML = hexColor;
 });

@@ -15,6 +15,5 @@ const colorContainer = document.querySelector(".color");
 button.addEventListener("click", () => {
   const color = getColors();
   section.style.backgroundColor = color;
-  button.style.backgroundColor = color;
   colorContainer.innerHTML = color;
 });
