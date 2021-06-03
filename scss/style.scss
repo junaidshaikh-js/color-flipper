@@ -27,7 +27,6 @@ html {
 
   &__title {
     flex-basis: 60%;
-    text-align: center;
   }
 
   .nav {
@@ -93,6 +92,10 @@ html {
 @media only screen and (min-width: 600px) {
   .header {
     font-size: 1.5em;
+
+    &__title {
+      text-align: center;
+    }
   }
 
   .color-flipper-section {

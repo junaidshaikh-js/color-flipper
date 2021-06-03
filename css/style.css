@@ -27,7 +27,6 @@ html {
 
 .header__title {
   flex-basis: 60%;
-  text-align: center;
 }
 
 .header .nav {
@@ -57,7 +56,7 @@ html {
   align-items: center;
 }
 
-.color-flipper-section .wrapper div {
+.color-flipper-section .color-box {
   margin: 1rem 1rem;
   padding: 1rem 1rem;
   border-radius: 5px;
@@ -67,7 +66,7 @@ html {
   background-color: black;
 }
 
-.color-flipper-section .wrapper div .color {
+.color-flipper-section .color-box .color {
   color: #49baf2;
   margin-left: 5px;
 }
@@ -91,7 +90,10 @@ html {
   .header {
     font-size: 1.5em;
   }
-  .color-flipper-section .wrapper .color-box {
+  .header__title {
+    text-align: center;
+  }
+  .color-flipper-section .color-box {
     margin-bottom: 2rem;
     padding: 2rem 4rem;
     font-size: 2em;
