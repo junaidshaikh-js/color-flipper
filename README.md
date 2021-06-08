@@ -10,6 +10,7 @@ This project is a part of 15 vanilla JavaScript projects.
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
+- [Other Projects](#other-projects)
 - [Author](#author)
 
 ## Overview
@@ -34,6 +35,13 @@ This project is a part of 15 vanilla JavaScript projects.
 ### What I learned
 
 I learn creating hex colors usign Javascript and brushed up my knowledge about working with DOM.
+
+## Other Projects
+
+1. Counter
+
+- [view](https://junaidshaikh-js.github.io/counter/)
+- [Github](https://github.com/junaidshaikh-js/counter)
 
 ## Author
 
