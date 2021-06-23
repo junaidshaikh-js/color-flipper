@@ -40,8 +40,18 @@ I learn creating hex colors usign Javascript and brushed up my knowledge about w
 
 1. Counter
 
-- [view](https://junaidshaikh-js.github.io/counter/)
+- [View](https://junaidshaikh-js.github.io/counter/)
 - [Github](https://github.com/junaidshaikh-js/counter)
+
+2. Reviews
+
+- [view](https://junaidshaikh-js.github.io/reviews/)
+- [Github](https://github.com/junaidshaikh-js/reviews)
+
+3. Navbar
+
+- [view](https://junaidshaikh-js.github.io/navbar/)
+- [Github](https://github.com/junaidshaikh-js/navbar)
 
 ## Author
 
