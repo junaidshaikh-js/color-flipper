@@ -53,6 +53,21 @@ I learn creating hex colors usign Javascript and brushed up my knowledge about w
 - [view](https://junaidshaikh-js.github.io/navbar/)
 - [Github](https://github.com/junaidshaikh-js/navbar)
 
+4. Sidebar
+
+- [View](https://junaidshaikh-js.github.io/sidebar/)
+- [Github](https://github.com/junaidshaikh-js/sidebar)
+
+5. modal
+
+- [View](https://junaidshaikh-js.github.io/modal/)
+- [Github](https://github.com/junaidshaikh-js/modal)
+
+6. FAQ Questions
+
+- [view](https://junaidshaikh-js.github.io/faq-questions/)
+- [Github](https://github.com/junaidshaikh-js/faq-questions)
+
 ## Author
 
 - Linkedin - [@junaidshaikhjs](https://www.linkedin.com/in/junaidshaikhjs/)
