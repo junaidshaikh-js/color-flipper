@@ -10,7 +10,6 @@ This project is a part of 15 vanilla JavaScript projects.
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-- [Other Projects](#other-projects)
 - [Author](#author)
 
 ## Overview
@@ -35,38 +34,6 @@ This project is a part of 15 vanilla JavaScript projects.
 ### What I learned
 
 I learn creating hex colors usign Javascript and brushed up my knowledge about working with DOM.
-
-## Other Projects
-
-1. Counter
-
-- [View](https://junaidshaikh-js.github.io/counter/)
-- [Github](https://github.com/junaidshaikh-js/counter)
-
-2. Reviews
-
-- [view](https://junaidshaikh-js.github.io/reviews/)
-- [Github](https://github.com/junaidshaikh-js/reviews)
-
-3. Navbar
-
-- [view](https://junaidshaikh-js.github.io/navbar/)
-- [Github](https://github.com/junaidshaikh-js/navbar)
-
-4. Sidebar
-
-- [View](https://junaidshaikh-js.github.io/sidebar/)
-- [Github](https://github.com/junaidshaikh-js/sidebar)
-
-5. modal
-
-- [View](https://junaidshaikh-js.github.io/modal/)
-- [Github](https://github.com/junaidshaikh-js/modal)
-
-6. FAQ Questions
-
-- [view](https://junaidshaikh-js.github.io/faq-questions/)
-- [Github](https://github.com/junaidshaikh-js/faq-questions)
 
 ## Author
 
